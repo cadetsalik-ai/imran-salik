@@ -1,5 +1,5 @@
 # imran-salik
-Hello ,I am Imran Salik,A cyber Security Student at Comsats University Islamabad
+Hello ,I am Imran Salik,A Cyber Security Student at COMSATS University Islamabad
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
@@ -20,7 +20,7 @@ Hello ,I am Imran Salik,A cyber Security Student at Comsats University Islamabad
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey There 👋</h1>
 
 ###
 
@@ -28,7 +28,7 @@ Hello ,I am Imran Salik,A cyber Security Student at Comsats University Islamabad
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Imran Salik, from Gilgit Baltistan,<br><br>- 🔭 I’m studying at COMSATS UNIVERSITY ISLAMABAD...<br>- 📚 I'm currently learning Python,Java and CSS<br>- ⚡ I am a Content Creator also</p>
 
 ###
 
